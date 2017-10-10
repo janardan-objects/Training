@@ -1,24 +1,7 @@
-1. How to create 1111111
+1. How to create New local branch
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-git checkout -b hero-17-02-17 origin/master
+git checkout -b master-1 origin/master
 git add .
 git commit -m "message"
-git pull origin hero-17-02-17
-git push origin hero-17-02-17
+git pull origin master-1
+git push origin master-1
